@@ -47,9 +47,9 @@ ClosingBalance, Currency, Recon_Status, Recon_Diff.
 Power BI · DAX · Excel
 
 ## Dashboard
-![Overview](screenshot/Overview.png)
-![Exceptions](screenshot/Exceptions1.png)
-![Exceptions](screenshot/Exceptions2.png)
-![Exceptions](screenshot/Exceptions3.png)
+![Overview](public/Overview.png)
+![Exceptions](public/Exceptions1.png)
+![Exceptions](public/Exceptions2.png)
+![Exceptions](public/Exceptions3.png)
 
-[📄 View Full Dashboard (PDF)](screenshot/TrialPulse.pdf)
+[📄 View Full Dashboard (PDF)](public/TrialPulse.pdf)
